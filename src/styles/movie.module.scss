@@ -1,0 +1,48 @@
+.movieCard {
+    border-radius: 15px;
+    margin: 10px;
+    max-height: 350px;
+    padding: 10px;
+    width: 190px;
+
+    
+    
+
+    .poster{
+        text-align: center; 
+    }
+    img{
+        height: auto;
+        max-width: 100%;
+        height: 280px;
+        border-radius: 15px;
+        object-fit: fill;
+    }
+
+    h4{
+    
+            font-size: 13px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+            font-weight: 700;
+        
+    }
+
+    div p{
+        font-size: 11px;
+        margin-top: 5px;
+    }
+}
+.movieCard:hover{
+    box-shadow: 0 0 5px 3px grey ;
+}
+
+.white{
+        
+    color: black;
+}
+
+.black{
+    color: white;
+}
+

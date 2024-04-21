@@ -1,0 +1,32 @@
+.selectedMovie{
+    display: flex;
+
+
+    
+    img{
+        height: auto;
+        max-width: 100%;
+    }
+
+    .selectedMovieText{
+        margin: 5px 40px;
+
+
+        h3{
+            margin: 0px;
+        }
+        .text{
+            margin: 5px 0px;
+            color: gray;
+        }
+    }
+    
+}
+.white{
+        
+    color: black;
+}
+
+.black{
+    color: white;
+}
